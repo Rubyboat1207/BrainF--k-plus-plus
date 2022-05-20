@@ -1,4 +1,4 @@
-# BrainF--k-plus-plus
+# BrainF**k-plus-plus
 An extension of the Brainf**k language that is 100% backwards compatible 
 
 This project is intended to ruin the fun of brainfuck by making it easier.
